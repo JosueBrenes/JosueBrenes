@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="//media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" />
     <h1 align="center">Hi👋🏼, I'm Josué Brenes</h1>
     <h3 align="center">Since i was a child really like programming, i am currently studying programming at the university.
     </h3>
@@ -26,6 +26,8 @@
     <h3>Lenguajes and Tools<h3>
  </div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
     width="40" height="40"/>&nbsp;
 </div>
 
