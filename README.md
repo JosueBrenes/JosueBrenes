@@ -12,23 +12,6 @@
 
 ➜ Programming Lover 
 
----
-### Contact Me 📱
-
-➜ [Instagram](https://www.instagram.com/brenes_3005/)
-
-➜ [Facebook](https://www.facebook.com/Josue.Brenes.3005)
-
-➜ [Whatsapp](https://wa.me/+50685833467)
-
----
- <div align="center">
-    <h3>Lenguajes and Tools<h3>
- </div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
-    width="40" height="40"/>&nbsp;
-</div>
-
 --- 
 My Skills 💻
 
@@ -39,3 +22,20 @@ My Skills 💻
 ➜ Team Worker
 
 ➜ English +B1
+
+---
+<div align="center">
+    <h3>Lenguajes and Tools<h3>
+ </div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
+    width="40" height="40"/>&nbsp;
+</div>
+
+---
+### Contact Me 📱
+
+➜ [Instagram](https://www.instagram.com/brenes_3005/)
+
+➜ [Facebook](https://www.facebook.com/Josue.Brenes.3005)
+
+➜ [Whatsapp](https://wa.me/+50685833467)
