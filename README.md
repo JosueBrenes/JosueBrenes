@@ -31,7 +31,8 @@
     width="40" height="40"/>
 </div>
 
---- My Skills 💻
+--- 
+My Skills 💻
 
 ➜ Leardership
 
