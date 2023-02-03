@@ -28,7 +28,7 @@ My Skills 💻
     <h3>Lenguajes and Tools<h3>
  </div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
-    width="30" height="30"/>&nbsp;
+    width="40" height="40"/>&nbsp;
 </div>
 
 ---
