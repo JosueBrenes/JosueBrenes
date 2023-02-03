@@ -1,16 +1,42 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="//media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" />
+    <h1 align="center">Hi👋🏼, I'm Josué Brenes</h1>
+    <h3 align="center">Since i was a child really like programming, i am currently studying programming at the university.
+    </h3>
+</div>
 
-<!--
-**JosueBrenes/JosueBrenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About me 👤
 
-Here are some ideas to get you started:
+➜ 17 Years Old
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➜ Programming Lover 
+
+---
+### Contact Me 📱
+
+➜ [Instagram](https://www.instagram.com/brenes_3005/)
+
+➜ [Facebook](https://www.facebook.com/Josue.Brenes.3005)
+
+➜ [Whatsapp](https://wa.me/+50685833467)
+
+---
+ <div align="center">
+    <h3>Lenguajes and Tools<h3>
+ </div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
+    width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
+    width="40" height="40"/>
+</div>
+
+--- My Skills 💻
+
+➜ Leardership
+
+➜ Creativity
+
+➜ Team Worker
+
+➜ English +B1
