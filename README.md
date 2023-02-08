@@ -27,8 +27,9 @@ My Skills 💻
 <div align="center">
     <h3>Lenguajes and Tools<h3>
  </div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
-    width="40" height="40"/>&nbsp;
+    <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Git" **alt="Git"
+    width="40" height="40"/>&nbsp; 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"></a>
 </div>
 
 ---
