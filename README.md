@@ -13,7 +13,7 @@
 ➜ Programming Lover 
 
 --- 
-My Skills 💻
+### My Skills 💻
 
 ➜ Leardership
 
