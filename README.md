@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.facebook.com/Josue.Brenes.3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josue brenes" height="30" width="40" /></a>
 <a href="https://instagram.com/brenes_3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brenes_3005" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/josue-brenes" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Josué Brenes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/josu%C3%A9-brenes-0281ba211/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Josué Brenes" height="30" width="40" /></a>
 </p>
 
 ---
