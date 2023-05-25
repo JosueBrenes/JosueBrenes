@@ -32,6 +32,7 @@
 <a href="https://www.linkedin.com/in/josu%C3%A9-brenes-0281ba211/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Josué Brenes" height="30" width="40" /></a>
 </p>
 
+
 ---
 <div align="left">
     <h3>Lenguajes and Tools<h3>
@@ -42,4 +43,6 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/> </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="40" height="40"/> </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a>
 </div>
