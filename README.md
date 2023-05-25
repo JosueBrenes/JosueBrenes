@@ -43,6 +43,5 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/> </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="40" height="40"/> </a>
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> </a>
 </div>
