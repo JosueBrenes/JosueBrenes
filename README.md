@@ -24,6 +24,12 @@
 ➜ English +B1
 
 ---
+### My Portfolio 💼
+<ul>
+  <li><a href="https://port-personal-web.netlify.app/"></a></li>
+</ul>
+
+---
 <h3 align="left">Contact me 📱
 </h3>
 <p align="left">
