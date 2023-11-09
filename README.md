@@ -31,7 +31,6 @@
   <a href="https://port-personal-web.netlify.app/">➔ My Portfolio</a>
 </div>
 
-
 ---
 
 <h3 align="left">Contact me 📱</h3>
@@ -44,16 +43,31 @@
 ---
 
 <div align="left">
-  <h3>Languages and Tools<h3>
+  <h3>Languages and Tools</h3>
 </div>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 </p>
+
+<h3 align="left">GitHub Stats</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact" alt="josuebrenes" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=josuebrenes&show_icons=true&locale=en" alt="josuebrenes" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josuebrenes&" alt="josuebrenes" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josuebrenes&label=Profile%20views&color=0e75b6&style=flat" alt="josuebrenes" /> </p>
