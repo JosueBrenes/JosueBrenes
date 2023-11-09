@@ -62,11 +62,11 @@
 <h3 align="left">Stats 🧮</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact&bg_color=1A1C23&text_color=7F8FA4&title_color=58A6FF" alt="josuebrenes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact&bg_color=ffffff&text_color=000000&title_color=58A6FF" alt="josuebrenes" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuebrenes&show_icons=true&locale=en&bg_color=1A1C23&text_color=7F8FA4&title_color=58A6FF" alt="josuebrenes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josuebrenes&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&title_color=58A6FF" alt="josuebrenes" />
 </p>
 
 <p align="left">
