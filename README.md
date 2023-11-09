@@ -56,7 +56,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Stats 🧮</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact" alt="josuebrenes" />
