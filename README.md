@@ -53,21 +53,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stats 🧮</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact" alt="josuebrenes" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact&bg_color=1A1C23&text_color=7F8FA4&title_color=58A6FF" alt="josuebrenes" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuebrenes&show_icons=true&locale=en" alt="josuebrenes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josuebrenes&show_icons=true&locale=en&bg_color=1A1C23&text_color=7F8FA4&title_color=58A6FF" alt="josuebrenes" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josuebrenes&" alt="josuebrenes" />
+  <img src="https://komarev.com/ghpvc/?username=josuebrenes&label=Profile%20Views&style=flat-square&color=blueviolet" alt="josuebrenes" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josuebrenes&label=Profile%20views&color=0e75b6&style=flat" alt="josuebrenes" /> </p>
