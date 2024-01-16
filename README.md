@@ -27,9 +27,6 @@
 ---
 
 ### Best Sites - Frontend 💯 
-<div>
-  <a href="https://port-personal-web.netlify.app/">➔ My Portfolio</a>
-</div>
 
 ---
 
