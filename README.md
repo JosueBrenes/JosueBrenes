@@ -40,7 +40,7 @@
 ---
 
 <div align="left">
-  <h3>Languages and Tools</h3>
+  <h3>My Knowlegde</h3>
 </div>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
