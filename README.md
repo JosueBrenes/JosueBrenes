@@ -26,10 +26,6 @@
 
 ---
 
-### Best Sites - Frontend 💯 
-
----
-
 <h3 align="left">Contact me 📱</h3>
 <p align="left">
   <a href="https://www.facebook.com/Josue.Brenes.3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josue brenes" height="30" width="40" /></a>
