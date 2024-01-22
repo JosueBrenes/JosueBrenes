@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Josué+Brenes!;" />
 </h1>
 
@@ -10,13 +10,9 @@
 
 <div>
  
-🔭 I’m currently working on **a marketplace**
+🔭 I'm currently don't working
  
-🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 I’m 18 years old **React**
 
  </div>
  
