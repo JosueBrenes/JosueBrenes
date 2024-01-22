@@ -20,7 +20,8 @@
 <h3 align="left">Contact me 📱</h3>
 <p align="left">
   <a href="https://www.facebook.com/Josue.Brenes.3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josue brenes" height="30" width="40" /></a>
-  <a href="https://instagram.com/brenes_3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brenes_3005" height="30" width="40" /></a>
+  <a href
+="https://instagram.com/brenes_3005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brenes_3005" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/josu%C3%A9-brenes-0281ba211/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Josué Brenes" height="30" width="40" /></a>
 </p>
 
@@ -43,6 +44,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> 
   <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> 
   
   
 </p>
