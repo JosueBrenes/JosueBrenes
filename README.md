@@ -11,6 +11,8 @@
 
 ➜ 18 Years Old
 
+➜ Costa Rica
+
 ➜ Programming Lover
 
 --- 
