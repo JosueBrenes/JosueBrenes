@@ -40,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="40" height="40"/> 
   <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
   
   
 </p>
