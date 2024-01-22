@@ -63,9 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josuebrenes&show_icons=true&locale=en&layout=compact&bg_color=ffffff&text_color=000000&title_color=58A6FF" alt="josuebrenes" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuebrenes&show_icons=true&locale=en&bg_color=ffffff&text_color=000000&title_color=58A6FF" alt="josuebrenes" />
-</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josuebrenes&label=Profile%20Views&style=flat-square&color=blueviolet" alt="josuebrenes" />
