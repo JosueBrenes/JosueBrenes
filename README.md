@@ -4,6 +4,7 @@
   <h3 align="center">Since I was a child, I've really liked programming. I am currently studying programming at the university.</h3>
 </div>
 
+
 ---
 
 ### About me 👤
@@ -13,18 +14,6 @@
 ➜ Programming Lover
 
 --- 
-
-### My Skills 💻
-
-➜ Leadership
-
-➜ Creativity
-
-➜ Team Worker
-
-➜ English +B1
-
----
 
 <h3 align="left">Contact me 📱</h3>
 <p align="left">
@@ -68,3 +57,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=josuebrenes&label=Profile%20Views&style=flat-square&color=blueviolet" alt="josuebrenes" />
 </p>
+
+---
+
+
