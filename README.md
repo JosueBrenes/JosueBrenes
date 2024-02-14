@@ -12,7 +12,7 @@
  
 🔭 I'm currently don't working
  
-💬 I’m 18 years old **React**
+💬 I’m 18 years old 
 
  </div>
  
