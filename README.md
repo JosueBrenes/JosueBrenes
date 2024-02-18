@@ -33,7 +33,7 @@
 <h2>⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div">
-    <img src="https://skillicons.dev/icons?i=astro,c,html,css,java,javascript,mysql,nodejs,python,tailwind,git,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=astro,c,html,css,java,javascript,mysql,nodejs,python,tailwind,scss,git,vscode,github" />
 </div>
 
 <br/>
