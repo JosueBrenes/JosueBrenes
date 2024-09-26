@@ -1,36 +1,36 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-# 👋 ¡Hola! Soy **Josue Brenes**
-🚀 Desarrollador Web | Estudiante de Ingeniería en Sistemas
+# 👋 Hi! I'm **Josue Brenes**
+🚀 Web Developer | Systems Engineering Student
 
 ---
 
-### 🌐 Conéctate conmigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-brenes/?locale=es_ES)
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-brenes/?locale=en_US)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosueBrenes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_brenes_30/)
 [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_brenes_3005)
 
 ---
 
-### 👨‍💻 **Lenguajes que manejo**:
+### 👨‍💻 **Programming Languages I Use**:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,c)](https://skillicons.dev)
 
-### 🛠️ **Frameworks favoritos**:
+### 🛠️ **Favorite Frameworks**:
 [![My Skills](https://skillicons.dev/icons?i=tailwind,react,laravel,spring,bootstrap,astro,dotnet)](https://skillicons.dev)
 
-### 🗄️ **Bases de datos**:
+### 🗄️ **Databases**:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,mssql)](https://skillicons.dev)
 
-### 🔧 **Herramientas de desarrollo**:
+### 🔧 **Development Tools**:
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,visualstudio,git,github)](https://skillicons.dev)
 
 ---
 
-### 🌱 **Actualmente aprendiendo**:
-- 🔗 Web3 y tecnologías blockchain.
-- 🌐 Profundizando en el desarrollo con React y Node.js.
-- 🧠 Explorando Inteligencia Artificial y Machine Learning.
+### 🌱 **Currently Learning**:
+- 🔗 Web3 and blockchain technologies.
+- 🌐 Deepening my skills in React and Node.js development.
+- 🧠 Exploring Artificial Intelligence and Machine Learning.
 
 ---
 
