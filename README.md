@@ -36,7 +36,7 @@
 
 ## 📊 **GitHub Stats**:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueBrenes&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueBrenes&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=JosueBrenes&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueBrenes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
