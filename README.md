@@ -13,6 +13,12 @@
 
 ---
 
+### 🌟 **Portfolio**:
+Check out my portfolio for more projects and detailed information about my work:
+- **Portfolio:** [dev-profile-six.vercel.app](https://dev-profile-six.vercel.app/)
+
+---
+
 ### 👨‍💻 **Programming Languages I Use**:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,c)](https://skillicons.dev)
 
@@ -31,6 +37,25 @@
 - 🔗 Web3 and blockchain technologies.
 - 🌐 Deepening my skills in React and Node.js development.
 - 🧠 Exploring Artificial Intelligence and Machine Learning.
+
+---
+
+### 🚀 **Featured Projects**:
+
+#### **1. Serenity Space** - Mental Well-being Platform
+A web project focused on mental health and well-being, offering online therapy, mindfulness exercises, and self-help resources.
+- **Technologies:** PHP, MySQL, Bootstrap
+- **Repository:** [GitHub](https://github.com/JosueBrenes/serenity-space)
+
+#### **2. CodeWizards** - Collaborative Coding Platform
+An application that enables developers to collaborate on projects, share code, and learn together.
+- **Technologies:** HTML, CSS, JavaScript, PHP
+- **Repository:** [GitHub](https://github.com/JosueBrenes/CodeWizards)
+
+#### **3. EasyRecord** - Record Management System
+A system for easy and efficient management of employee and company records.
+- **Technologies:** HTML, CSS, PHP, MySQL
+- **Repository:** [GitHub](https://github.com/JosueBrenes/EasyRecord)
 
 ---
 
