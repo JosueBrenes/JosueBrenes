@@ -54,7 +54,7 @@ An application that enables developers to collaborate on projects, share code, a
 
 #### **3. EasyRecord** - Record Management System
 A system for easy and efficient management of employee and company records.
-- **Technologies:** HTML, CSS, PHP, MySQL
+- **Technologies:** Astro, JavaScript
 - **Repository:** [GitHub](https://github.com/JosueBrenes/EasyRecord)
 
 ---
