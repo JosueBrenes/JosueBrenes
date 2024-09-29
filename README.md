@@ -49,7 +49,7 @@ A web project focused on mental health and well-being, offering online therapy, 
 
 #### **2. CodeWizards** - Collaborative Coding Platform
 An application that enables developers to collaborate on projects, share code, and learn together.
-- **Technologies:** HTML, CSS, JavaScript, PHP
+- **Technologies:**  PHP, SASS, Javascript and MySQL
 - **Repository:** [GitHub](https://github.com/JosueBrenes/CodeWizards)
 
 #### **3. EasyRecord** - Record Management System
