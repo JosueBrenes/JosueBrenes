@@ -23,7 +23,7 @@ Check out my portfolio for more projects and detailed information about my work:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,py,c)](https://skillicons.dev)
 
 ### 🛠️ **Favorite Frameworks**:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,laravel,spring,bootstrap,astro,dotnet,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,laravel,spring,bootstrap,astro,dotnet,typescript,nextjs)](https://skillicons.dev)
 
 ### 🗄️ **Databases**:
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,mssql)](https://skillicons.dev)
