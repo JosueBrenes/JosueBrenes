@@ -4,9 +4,6 @@
 🚀 Fullstack Web Developer <br />
 💻 Systems Engineering Student
 
-![Visitas](https://visitcount.itsvg.in/api?id=JosueBrenes&icon=8&color=6)
-
-
 ---
 
 ### 🌐 Connect with me:
