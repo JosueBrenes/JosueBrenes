@@ -39,27 +39,6 @@ Check out my portfolio for more projects and detailed information about my work:
 - 🌐 Deepening my skills in React and Node.js development.
 - 🧠 Exploring Artificial Intelligence and Machine Learning.
 
----
-
-### 🚀 **Featured Projects**:
-
-#### **1. Serenity Space** - Mental Well-being Platform
-A web project focused on mental health and well-being, offering online therapy, mindfulness exercises, and self-help resources.
-- **Technologies:** PHP, MySQL, Bootstrap
-- **Repository:** [GitHub](https://github.com/JosueBrenes/serenity-space)
-
-#### **2. CodeWizards** - Collaborative Coding Platform
-An application that enables developers to collaborate on projects, share code, and learn together.
-- **Technologies:**  PHP, SASS, Javascript and MySQL
-- **Repository:** [GitHub](https://github.com/JosueBrenes/CodeWizards)
-
-#### **3. EasyRecord** - Record Management System
-A system for easy and efficient management of employee and company records.
-- **Technologies:** Astro, JavaScript
-- **Repository:** [GitHub](https://github.com/JosueBrenes/EasyRecord)
-
----
-
 ## 📊 **GitHub Stats**:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueBrenes&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />  <br/>
