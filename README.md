@@ -20,9 +20,9 @@ Check out my portfolio for more projects and detailed information about my work:
 
 ---
 
-### 🕹️ **Best Project**:
-This project was created and presented at the ETH Pura Vida 2024 hackathon.
-- **Repository Project:** [SafeTrust](https://github.com/titanlabsco/SafeTrust)
+### 🕹️ **Personal Project**:
+This is my personal project, showcasing innovative solutions using decentralized technologies.
+- **Repository Project:** [SafeTrust](https://github.com/safetrustcr)
 
 ---
 
