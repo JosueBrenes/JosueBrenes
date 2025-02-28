@@ -23,6 +23,7 @@ Check out my portfolio for more projects and detailed information about my work:
 ### 🕹️ **Personal Project**:
 This is my personal project, showcasing innovative solutions using decentralized technologies.
 - **Repository Project:** [SafeTrust](https://github.com/safetrustcr)
+- **Repository Project:** [TrustBridge](https://github.com/TrustBridgeCR)
 
 ---
 
