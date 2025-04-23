@@ -2,7 +2,7 @@
 
 # 👋 Hi! I'm **Josue Brenes** 
 🚀 Fullstack Web Developer <br />
-💻 Systems Engineering Student
+💻 Systems Engineering 
 
 ---
 
