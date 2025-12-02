@@ -16,13 +16,13 @@
 
 ### 🌟 **Portfolio**:
 Check out my portfolio for more projects and detailed information about my work:
-- **Develoment Project:** [Portfolio](https://josuebrenes-dev.vercel.app/)
+- **Develoment Project:** [Portfolio](https://josuebrenes-dev.vercel.app)
 
 ---
 
 ### 🕹️ **Personal Project**:
 This is my personal project, showcasing innovative solutions using decentralized technologies.
-- **Repository Project:** [TrustBridge](https://github.com/trustbridgecr)
+- **Repository Project:** [ACTA](https://github.com/ACTA-Team)
 
 ---
 
