@@ -16,7 +16,7 @@
 
 ### 🌟 **Portfolio**:
 Check out my portfolio for more projects and detailed information about my work:
-- **Develoment Project:** [Portfolio](https://josuebrenes-dev.vercel.app)
+- **Develoment Project:** [Portfolio](https://josuebrenes.vercel.app)
 
 ---
 
