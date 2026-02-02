@@ -42,6 +42,9 @@ This is my personal project, showcasing innovative solutions using decentralized
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JosueBrenes&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JosueBrenes&theme=tokyo-night" alt="Activity Graph" />
+</p>
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
