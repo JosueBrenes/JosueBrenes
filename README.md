@@ -39,13 +39,7 @@ This is my personal project, showcasing innovative solutions using decentralized
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueBrenes&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueBrenes&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueBrenes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JosueBrenes&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 ---
